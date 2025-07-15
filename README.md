@@ -22,7 +22,7 @@ A robust command-line application built in Ruby for managing and analyzing clien
 
 ```bash
 git clone <repository-url>
-cd shiftcare-client-manager
+cd shiftcare-test-task
 ```
 
 ### 2. Install Dependencies
